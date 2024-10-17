@@ -1,0 +1,24 @@
+.hero_section {
+    background: #f0f4f8; /* Changed background color to a light blue-gray */
+}
+
+.hero_content h2 {
+    color: #333; /* Updated the text color to a dark gray for better contrast */
+    font-size: 2.75rem; /* Increased font size for emphasis */
+}
+
+.hero_content p {
+    color: #555; /* Softer color for text */
+    line-height: 30px; /* Slightly increased line height for better readability */
+}
+
+.buy_btn {
+    background: #ff5722; /* Changed button background to a vibrant orange */
+    padding: 10px 25px; /* Adjusted padding for a more prominent button */
+    font-size: 1.1rem; /* Slightly increased font size */
+    border-radius: 8px; /* Softer, more rounded button edges */
+}
+
+.timer_count {
+    background: #ffeb3b; /* Brightened timer section background to a yellow shade */
+}
